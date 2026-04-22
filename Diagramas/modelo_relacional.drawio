@@ -306,7 +306,7 @@
         <mxCell id="VIMKwGW1rqweAjyjyh-e-52" connectable="0" parent="VIMKwGW1rqweAjyjyh-e-50" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" value="1" vertex="1">
           <mxGeometry relative="1" x="1" as="geometry" />
         </mxCell>
-        <mxCell id="VIMKwGW1rqweAjyjyh-e-67" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" value="AVALIA" vertex="1">
+        <mxCell id="VIMKwGW1rqweAjyjyh-e-67" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" value="USUARIO_RECEITA" vertex="1">
           <mxGeometry height="180" width="200.5" x="402" y="280" as="geometry" />
         </mxCell>
         <mxCell id="VIMKwGW1rqweAjyjyh-e-68" parent="VIMKwGW1rqweAjyjyh-e-67" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" value="" vertex="1">
@@ -418,7 +418,7 @@
             <mxPoint x="-6" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VIMKwGW1rqweAjyjyh-e-118" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="PERTENCE" vertex="1">
+        <mxCell id="VIMKwGW1rqweAjyjyh-e-118" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="RECEITA_CATEGORIA" vertex="1">
           <mxGeometry height="70" width="197.75" x="800" y="520" as="geometry" />
         </mxCell>
         <mxCell id="VIMKwGW1rqweAjyjyh-e-119" parent="VIMKwGW1rqweAjyjyh-e-118" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
@@ -462,7 +462,7 @@
         <mxCell id="VIMKwGW1rqweAjyjyh-e-136" connectable="0" parent="VIMKwGW1rqweAjyjyh-e-134" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" value="1" vertex="1">
           <mxGeometry relative="1" x="1" as="geometry" />
         </mxCell>
-        <mxCell id="VIMKwGW1rqweAjyjyh-e-137" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" value="CONTEM" vertex="1">
+        <mxCell id="VIMKwGW1rqweAjyjyh-e-137" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" value="RECEITA_INGREDIENTE" vertex="1">
           <mxGeometry height="150" width="200.5" x="29.75" y="516" as="geometry" />
         </mxCell>
         <mxCell id="VIMKwGW1rqweAjyjyh-e-138" parent="VIMKwGW1rqweAjyjyh-e-137" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" value="" vertex="1">
@@ -543,7 +543,7 @@
             <mxPoint x="13" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VIMKwGW1rqweAjyjyh-e-159" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" value="INCLUI" vertex="1">
+        <mxCell id="VIMKwGW1rqweAjyjyh-e-159" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" value="LISTA_INGREDIENTE" vertex="1">
           <mxGeometry height="150" width="200.5" x="30.75" y="180" as="geometry" />
         </mxCell>
         <mxCell id="VIMKwGW1rqweAjyjyh-e-160" parent="VIMKwGW1rqweAjyjyh-e-159" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" value="" vertex="1">
@@ -630,7 +630,7 @@
             <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VIMKwGW1rqweAjyjyh-e-178" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="RECOMENDA" vertex="1">
+        <mxCell id="VIMKwGW1rqweAjyjyh-e-178" parent="1" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" value="ENTIDADE_RECEITA" vertex="1">
           <mxGeometry height="70" width="197.75" x="650" y="320" as="geometry" />
         </mxCell>
         <mxCell id="VIMKwGW1rqweAjyjyh-e-179" parent="VIMKwGW1rqweAjyjyh-e-178" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" value="" vertex="1">
@@ -641,7 +641,7 @@
             <mxRectangle height="40" width="52.5" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VIMKwGW1rqweAjyjyh-e-181" parent="VIMKwGW1rqweAjyjyh-e-179" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="R_ID&lt;br&gt;E_ID" vertex="1">
+        <mxCell id="VIMKwGW1rqweAjyjyh-e-181" parent="VIMKwGW1rqweAjyjyh-e-179" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" value="E_ID&lt;br&gt;R_ID" vertex="1">
           <mxGeometry height="40" width="145.25" x="52.5" as="geometry">
             <mxRectangle height="40" width="145.25" as="alternateBounds" />
           </mxGeometry>
